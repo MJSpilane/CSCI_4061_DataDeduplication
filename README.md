@@ -28,7 +28,7 @@ Canvas PA Group 60
 - walla875
     - README.md, root_process.c - main/helping with redirection, debugging
 
-### Our Data Deduplication Algorithm:
+### Our Data Deduplication Algorithm (Pseudocode):
 1. In root_process.c
     ```
     int fds[2] 
